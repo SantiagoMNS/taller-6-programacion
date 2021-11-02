@@ -2,7 +2,7 @@
 
 ## Participantes
 
-Maria Paula Galvis Vasquez
+Santiago Noreña Muñoz
 
 ## Ejercicio 1
 ```Javascript
